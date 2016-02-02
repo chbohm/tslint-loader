@@ -1,7 +1,7 @@
 {
   "name": "old-tslint-loader",
   "version": "2.1.0",
-  "description": "tslint loader for webpack compatible with tslint 2.5.1 (typescript 1.6.2)",
+  "description": "tslint loader compatible with tslint 2.5.1 (typescript 1.6.2). Please use tslint-loader to use latest linter",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
