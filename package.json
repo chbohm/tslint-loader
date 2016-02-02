@@ -1,7 +1,7 @@
 {
-  "name": "tslint-loader",
+  "name": "old-tslint-loader",
   "version": "2.1.0",
-  "description": "tslint loader for webpack",
+  "description": "tslint loader for webpack compatible with tslint 2.5.1 (typescript 1.6.2)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/wbuchwalter/tslint-loader",
   "peerDependencies": {
-    "tslint": "^3.0.0"
+    "tslint": "2.5.1"
   },
   "dependencies": {
     "loader-utils": "^0.2.7",
